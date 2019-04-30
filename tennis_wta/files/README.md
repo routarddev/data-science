@@ -1,6 +1,6 @@
 ## WTA Tennis Rankings, Results, and Stats
 
-@author: Jeff Sackmann
+@author: Jeff Sackmann. See: https://github.com/JeffSackmann/tennis_wta
 
 This repo contains my master WTA player file, historical rankings, and an extensive database of match results.
 
