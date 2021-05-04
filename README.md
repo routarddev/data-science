@@ -3,7 +3,7 @@
 <br/>
 
 ## Machine Learning
-- **classification_test**: Jupyter Notebook solving a classification problem with all the steps and considerations (EDA, algortihms, tests, etc.)
+- **classification_test**: Jupyter Notebook solving a classification problem with all the steps and considerations (EDA, classification algorithms, tests, etc.)
 
 <br/>
 
