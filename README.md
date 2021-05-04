@@ -1,13 +1,16 @@
 # Big Data and Data Science small projects
 
+<br/>
 
 ## Machine Learning
 - **classification_test**: Jupyter Notebook solving a classification problem with all the steps and considerations (EDA, algortihms, tests, etc.)
 
+<br/>
 
 ## Tennis WTA
 - **Sports - Tennis**: Jupyter Notebook with all the steps to work with data related to the WTA and perform some ETL processes (extract data from source files, load into NoSQL database, transform data), data analysis and visualizations.
 
+<br/>
 
 ## Twitter Analysis
 - **save_credentials**: save your credentials in a json file to read from them. Never upload or make public your credentials.
